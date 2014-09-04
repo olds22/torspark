@@ -195,6 +195,12 @@ blockquote {
   border-left: 3px solid #bbb;
 }
 
+blockquote cite {
+  display: block;
+  font-size: 12px;
+  font-style: italic;
+}
+
 
 ul, ol, dl {
   margin-bottom: 15px
